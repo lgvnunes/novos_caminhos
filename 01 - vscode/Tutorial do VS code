@@ -1,7 +1,7 @@
 Tutorial de Instalação e configuração do VSCODE
 
 (✅️) 1 Conhecer o site do VSCODE
-() 2 Instalação do VSCODE
+(✅️) 2 Instalação do VSCODE
 
  - () sudo apt-get update
  - () sudo apt-get install software-properties-common apt-transport-https wget
@@ -15,9 +15,9 @@ Tutorial de Instalação e configuração do VSCODE
 
 () 4 - Instalar extensões
 
- - (ok) PHP intelephense
- - () Markdown All in One
- - () Bracket Pair Colorizer 2
+ - (✅️) PHP intelephense
+ - (✅️) Markdown All in One
+ - (✅️) Bracket Pair Colorizer 2
  - () indent-rainbow
  - () pomodoro-timer
  - () git-leans
